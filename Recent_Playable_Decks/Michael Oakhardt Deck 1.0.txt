@@ -1,0 +1,44 @@
+Michael Deck
+
+Michael Oakhardt: 35 HP, Whenever one of your companions would take damage, you can choose to take the damage instead.
+
+Attunement:
+-Antithesis: When one of your companions die, equip this.
+-Oakhardt’s Vestment: Once you have taken 10 damage for your companions, equip this.
+-Banner of Safe Haven: Once you have played 3 aura cards, equip this.
+
+Weapons:
+- Antithesis: +2 attack, reaction 1/game negate one effect targeting one of your companions.
+
+Equipment:
+- Oakhardt’s vestment: +2 AC, reaction 1/game change the target of one spell or effect to Michael if applicable.
+- Banner of Safe Haven: When one of your minions takes damage, roll a d4, reduce the damage by that amount.
+
+Other Cards:
+(Companions)
+- X1 Bol Wyrtson: Has +4 attack and +6 AC. At the start of your beggining phase, restore this companion to full health
+- X1 Harry Oakhardt: Has +3 attack and +4 AC. When this companion attacks, draw a card.
+- X1 Vela Venta: Has +1 attack and +3 AC. Your hero does not take retaliation damage.
+(Auras)
+- X2 Aura of Protection: (Aura) Equip this to your hero until the end of your next turn, reduce damage dealt to you and your minions by 2.
+- X1 Aura of Vitality: (Aura) Equip this to your hero until the start of your next turn, If any of your companions die, return them to the field at the start of your action phase with 1 life.
+- X2 Crusader’s Mantel: (Aura) Equip this to your hero until the start of your next turn, your hero and companions gain +2 attack.
+(Spells)
+- X1 Blinding Smite: (Spell) Your Hero and Vela Venta’s next attack this turn deals 2 extra damage, and the target hit cannot attack until the start of your next turn.
+- X1 Revivify: (Spell) Discard a card, choose a companion in your discard pile and place them onto the field.
+- X2 Summon Steed: (Spell) Search your deck or discard pile for Vela Venta and put them onto the field.
+- X1 Wrathful Smite: (Spell) Your Hero and Vela Venta’s next attack this turn deals 1 extra damage, and the target hit cannot target your hero until the end of your next turn.
+(Effects)
+- X1 Build your house: Your hero gains +1 AC till the start of your next turn. Each time your hero would take damage before the start of your next turn, draw 1 card.
+- X2 Divine smite: Your hero's and Bol Wyrtson’s next attack this turn deals 2 extra damage.
+- X1 Familiar Face/Gung-ho: Search your deck for Bol Wyrston and put him onto the field. If Bol is already on the field, he may take an extra attack this turn and heal your hero 5 HP.
+- X1 I go Low, you go High: If Bol Wyrtson is in play, both Your hero and Bol gain +1 attack and attack a signle target of your choice. Neither you hero of Bol takes retaliation damage.
+- X2 Lay on Hands: You hero or one friendly companion of your choice regains 4 health.
+- X1 Like father like sons: If Harry Oakhardt is in play, look at the top 2 cards of your deck. Put any amount in your hand or discard. For how many were discarded, Harry and your hero gain that much additional attacks
+- X1 Prodigal Son/Poem for Your Thoughts: Search your deck for Harry Oakhardt and put him onto the field. If he is already in play, your companions gain 1d4 attack and AC until the start of your next turn.
+(Reaction)
+- X2 Relentless Avenger: (Reaction) when an enemy attacks one of your companions, Your hero immediately attacks them and deals an additional 1d6 damage.
+- X1 Shield Master Evasion: (Reaction) ignore the next damage you would take.
+
+Aura Cards:
+You cannot have more than one aura equiped at one time.

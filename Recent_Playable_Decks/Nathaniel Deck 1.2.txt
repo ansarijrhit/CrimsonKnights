@@ -1,0 +1,39 @@
+Nathaniel Deck
+
+Nathaniel: 25 health, Maximum hand size is increased to 7 and starts the game with 5 cards
+
+Attunement:
+-Zeitherz: When you have discarded 3 spell cards this game, equip this.
+-Staff of Power: When you discard a card from you hand for being too full, equip this.
+-Cloak of Invisibility: When you take 3 instances of damage, equip this.
+
+Weapons:
+- Zeitherz: +1 attack and when you cast a spell, you can discard 2 card to cast it twice.
+- Staff of Power: +2 attack and when you cast a spell, it does 1 additional damage.
+
+Equipment:
+- Cloak of invisibility: +1 AC , as an action you can discard a card and can't be targeted by attacks or spells until the start of your next turn.
+
+Other Cards:
+(Minions)
+- 1x Familiar: has +1 attack and +3 AC. Whenever you cast a spell, draw a card.
+- 1x Flying Carpet: has +0 attack and +3 AC, Whenever you draw a card(s) outside your draw phase, you can play 1 additional card this turn.
+- 1x Flying Broom: has +2 attack and +1 AC. When this is in the discard pile, as an action summon this to your field and draw a card.
+(Spells)
+- 3x Shield: (Reaction) gain 5 AC till the start of your next turn.
+- 1x Cone of Cold: each opponent can choose to take 6 damage or skip their next draw phase.
+- 1x Crown of Stars: Discard any amount of cards of your choice from your hand, for each one discarded deal 1d4 damage to an opponent of your choice.
+- 1x Meteor Swarm: Discard your hand and for every 2 cards in your discard pile, deal 2 damage to all enenmies. If you deal 6 damage, draw 1 card.
+- 2x Counter Spell: Draw a card and then remove the top card from an opponents deck of your choice.
+- 1x Mage Armor: Equip to your hero, gain +2 AC
+- 2x Tidal Wave: Choose an enemy hero, deal 1d4 damage to them and then draw a card. If that opponent had any minions, they cannot attack you until the start of your next turn.
+(Abilities)
+- 1x Flash of Geniuess: Shuffle your discard pile into your deck.
+- 2x Empowered Evocation: Any damage you do with a spell this turn does 1 additional damage, you can play another spell card this turn.
+- 1x Overchannel: Discard 3 cards, Until the end of your next turn, damage from spells is doubled.
+- 2x Keen Mind: Look at the top 4 cards of your deck, choose 2 among then and place those in your hand, discard the rest.
+- 2x Alexander William James Arroyo the 6th: Discard a card from your hand, You can play 2 additional cards this turn only.
+- 1x Touched by Time: Look at the top 3 cards of your discard pile and add a spell from among them to your hand, shuffle the rest into you deck.
+- 1x Dad's Bank Account: Take a card from you hand and place it outside the game. 1 to 3 turns after this card is played, use an action to add the card to your hand a draw an amount of cards equal to the number of your turns that passed.
+- 1x Correlon's Blessing: Equip this to your hero. Spell Cards in your hand and discard pile can't be effected by opponents. (If a card makes you discard and you only have spells, you are unaffected)
+

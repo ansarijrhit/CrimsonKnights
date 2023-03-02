@@ -1,0 +1,36 @@
+Preadyth Deck
+
+Preadyth: 25 HP, For each minion on your board, your hero has +2 attack and +1 AC
+
+Attunement:
+-Cloud Splitter: When two of your minions die during the game, equip this. 
+-Opulent Cindus: Have summoned minions 4 times this game, equip this.
+
+Weapons:
+- Cloud Splitter: +1 attack, When you attack a minion, that minions owner takes equivalent damage. *(Bug fix)
+
+Equipment:
+- Opulent Cindus: +1 AC, Once a game as an action you can choose to either draw 5 cards, gain +5 attack, or gain +5 AC until the start of your next turn.
+
+Other Cards:
+- 1x Alexia: Has +4 attack and +6 AC. *(Buffed)
+- 1x Rovin: Has +1 attack and +3 AC. When this card is played from your hand, place a minion from your discard pile onto your field. *(Nerf)
+- 1x Laurent Thibolt: Has +1 attack and +2 AC. When this minion dies, draw a card.
+- 1x Lewis the Dog: Has +1 attack and +1 AC. If this is in the discard pile, you can use an action to bring it back to the field.
+- 1x Vonett the Chair: Has +0 attack and +4 AC. Opponents must attack this card before they can attack the cards owner.
+- 2x Sorcery Points: Add a card from your discard pile to your hand, then play another card. *(Buffed)
+- 1x Bardic Inspiration: Roll 1d6, give one of your minions that much attack and AC until the end of your turn. *(Buffed) (Lowered Amount)
+- 2x Tempestuous Magic: Draw a card, your hero cannot be targeted for attacks or spells until your next turn, and skip your combat phase for this turn.
+- 1x Storm's Fury: (Reaction) when one of your minions is attacked, the attacker takes 1d4 damage for each minion on your field. *(Buffed)
+- 2x Vampiric Bite: Choose an opponent, then roll 1d4. Deal damage to the opponent and heal yourself equal to the number rolled. This damage ignores AC *(Buffed) (Lowered Amount)
+- 1x Mobile Florish: On your next attack add 1d4 to it, then select a card randomly in the hand of the attacked opponent. They must shuffle it back into their deck.
+- 1x Defensive Florish: (Reaction) When an opponent uses an action, roll 1d6 and you gain attack and AC to the number rolled until the end of your next turn.
+- 1x Slashing Florish: (Reaction) When an opponent uses an action, roll 1d6 and you gain attack to the number rolled and when you attack next, choose one other target to take equivalent damage.
+- 1x Gate: Search your deck and pick a card, then add that card to your hand.
+- 2x Raise Dead: Select a minion in your discard pile and summon it to the field.
+- 1x Mental Prison: Select an opponent, each time they play a card or attack with a hero or minion they take 1d10 damage until the end of your next turn.
+- 1x Synaptic Static: Select an opponent, each time they do damage to another target with either an attack, ability, or spell, they subract 1d6 to the number. *(Slight Buff)
+- 2x Taking the Spotlight: You gain 4 AC and your minions are untargetable and immune to all effects until the start of your next turn. Your minions can't attack during this combat phase. *(New Card)
+(New Cards)
+- 1x Theater Postings: Search the top 1d6 cards of your deck, place one minion onto the field and put the other cards onto the top of your deck in any order. The minion can't attack this turn.
+- 1x Gathering Crowd: Has +1 attack and +1 AC. When this minion is summoned, search your deck for a minion and add it to your hand.

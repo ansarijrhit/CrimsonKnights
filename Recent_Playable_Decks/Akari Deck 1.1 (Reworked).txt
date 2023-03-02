@@ -1,0 +1,35 @@
+Akari Deck
+
+Akari: 30 HP, You always have +2 attack
+
+Attuntment:
+-Glaives: When you have played Fighting Spirit 2 times, equip this.
+-Fists: After dealing damage twice to an enemy during your turn, equip this.
+-Longbow: After receiving 15 damage, equip this.
+-Exotic Clothing: After you have attacked 5 times, equip this.
+
+Weapons:
+- Glaives: +1 attack, When you attack a minion, your left over damage goes to the opponent
+- Fists: +1 attack, You can attack minions one more time per turn.
+- Longbow: +1 attack, While attacking, you take no damage in return once per turn.
+
+Equipment:
+- Exotic Clothing: +1 AC
+
+Other Cards:
+- 2x Action Surge: You can play two additional cards during this action phase, draw a card.
+- 4x Extra Attack: Your hero can make an additional attack during this combat phase.
+- 1x Second Wind: Heal 1d10 HP.
+- 1x Two-Weapon Fighting: Equip this card to your hero. your hero can now equip two weapons at once.
+- 2x Indomitable: (Reaction) When a player targets you with a card, put it back in there hand and make them play another card in their hand if able.
+- 3x Fighting Spirit: Your Hero heals 1 HP and your attacks this turn do 1 more damage. Add +1 for each "Fighting Spirit" card you've played this game.
+- 1x Elegant Courtier: Play another card from you hand and then your discard pile, then you and an opponent of your choice draws a card.
+- 1x Tireless Spirit: Reshuffle all discarded "Fighting Spirit" cards back into your deck, then draw a card.
+- 1x Rapid Strike: If you played a "Fighting Spirit" within your last turn, you can attack an amount of times equal to each "Fighting Spirit" card you've played this game.
+- 1x Strength Before Death: Equip this card to your hero. If your hero is defeated, they heal 5 HP and it becomes your turn immediantly. Return to the proper turn order after your turn.
+- 3x Unique Martial Techniques: Add a "Fighting Spirit" card from your deck or discard pile to your hand.
+- 2x Martialy Prepared: Draw 2 cards, then your hero can attack an amount of times equal to the amount of cards in your hand until the end of your turn.
+- 1x Lasting Imprint: Discard a card and put it into your opponents hand, they cannot play it and must spend an action to discard it. During each of thats opponent's beginning phase, they take 1 damage.
+- 1x Strong, Silent Type: Gain 2 AC until you attack.
+- 1x Personal History: Cards in you hand and deck can't be manipulated by opponent cards until the end of your next turn, draw a card.
+

@@ -1,0 +1,35 @@
+Gareth Deck
+
+Gareth: 25 HP, You cannot be targeted by opponent cards and attacks while you have minions on your field.
+
+Attunement:
+-Arena Ward: After have taken 2 instances of damage, equip this.
+-Diadem: After having summoned two minions this game, equip this.
+
+Weapons:
+- Arena Ward: +2 attack, on your turn as an action, you can take a summoned spider from your discard pile or deck and put in on your field. *(Buffed)
+
+Equipment:
+- Diadem: When you summon a minion, look at the top card of an opponents deck of your choice. If its a minion, you can summon it to your side of the field but pass control back to its owner at the end of the turn.
+
+Other Cards:
+- 3x Summoned Spiders: Has +1 attack and +1 AC.
+- 1x Palppy: Has +5 attack and +3 AC. When this dies from an opponent, shuffle this card into your deck instead.
+- 1x Nadia: Has +2 attack and +2 AC. When this dies, you can play "Lolth's Champion" from anywhere without sacrificing a minion on your next turn. *(Bug Fix)
+- 1x Jeremiah: Has +2 attack and +1 AC. When this dies, shuffle this into the opponents deck. When drawn it is summoned to your field, they draw again.
+- 1x Hesli Arachnea: Has +4 attack and +4 AC. When this is summoned, add a minion from your deck to your hand or give your hero +2 attack and +2 AC until the end of your turn. *(bug Fix)
+- 1x To the Promised Land: Everyone discards their hand, then they draw 4 cards.
+- 1x Reliable Talent: Any damage your hero does before the end of your next turn, cannot be reduced in anyway. Including AC.
+- 2x Uncanny dodge: (Reaction) Any time you or a minion would take damage, half the damage. *(Slight Buff) (Reworked)                
+- 1x Evasion: Ignore the next instance of damage you take, This stays until you would take damage.
+- 3x Sneak Attack: If you had a minion die within the last turn, your next attack this turn deals an additional 2d6 damage. (Reworked)
+- 1x Elven Accuracy: Until the end of your next turn, you can roll an additional time for rolled damage and take the higher roll.
+- 1x Magically Non-magical: Check the top card of your deck, then either play it or add it to your hand. If it was not a minion, draw again once. **(Buffed)
+- 1x Lolth's Champion: If you have at least one minion on your field, sacrifice it, your next attack does 3d6 damage. *(Nerfed)
+- 1x Thief's Reflexes: During another opponents turn, you can play a card during their action phase. You choose when it gets played. *(Bug Fix)
+- 1x Lucky: Choose a card randomly in your opponents hand and discard it. Then discard the top card of your opponents deck.
+- 2x Fast Hands Potion: Choose a minion in you discard pile and add it to your hand. If there are none, draw a card instead. *(Buffed)
+- 1x 30 to sleath: Skip your combat phase this turn, you and your minions are immune to damage until the start of your next turn, then add a sneak attack from your deck to your hand. *(Bug fix) (Buffed)
+(New Cards)
+- 1x Sabotage: (Reaction) When an opponent or opponent's minion attacks you or one of your minions, force them to attack another opponent. If there is none, they lose their attack
+- 1x Reaction Sneak Attack: (Reaction) When an opponenent hero attacks one of your minions, you immediately make an attack against them that does an additional 2d6 damage.

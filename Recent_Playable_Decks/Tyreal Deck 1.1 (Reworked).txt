@@ -1,0 +1,41 @@
+Reworked Deck:
+
+Tyreal: 30 HP, You have no limit to the amount of Weapons and Equipment you can have on at a time.
+
+Attunement:
+-Pepperbox: At the start of your 3rd turn, equip this.
+-Gauntlet: When you have 10 cards in your discard pile for the first time, equip this.
+-Ring of Bards: When you shuffle your deck 3 times, equip this.
+-Watermelon: When you have 2 weapons or equipment on your hero, equip this.
+-Ioun Stone: After you have played 3 cards that didn't start in your deck, equip this.
+
+
+Weapons:
+- Pepperbox: +2 attack, While attacking, you take no damage in return.
+- Gauntlet: +0 attack, For each elemental gem in your discard pile, increase this attack by +1
+
+Equipment:
+- Ring of Bards: +1 AC, As an action you can choose a card in your discard pile and play it.
+- Watermelon: +1 AC
+- Ioun Stone: you have an additional action every turn, but can't use it to play a minion or spell card.
+
+Other Cards:
+- 3x Tyreal Clone: +1 attack and +1 AC. When this dies, you can take a card in your hand and shuffle it into your deck, then draw a card.
+- 1x Terry: +2 attack and +1 AC. Tyreal can play this card from anywhere. (ANYWHERE)
+- 1x Baefordrin: +4 attack and +4 AC. When played, add a non-minion card from your discard pile to your hand.
+- 1x Tenser's Transformation: Roll 1d12, You gain that much attack and AC until the end of this turn and then heal equal to half the roll rounded down.
+- 1x Elemental Gem (Blue): Discard the top card of your deck and gain an additional action.
+- 1x Elemental Gem (Green): Choose an opponent, send 2 random cards from either their hand or field into their deck and shuffle. They then draw 2.
+- 1x Elemental Gem (Red): Deal 1d6 damage to a target of your choice.
+- 1x Elemental Gem (Yellow): Gain 1d6 AC until the start of your next turn.
+- 1x You Wouldn't Understand: Take a card of your choice from your hand or deck, and replace it with a card from an opponent's deck at random that isn't a minion. Then each player shuffles their deck.
+- 1x Cutting Words: (Reaction) remove a random card from each opponents hand.
+- 1x Otto's Irresistible Dance: Send all minions on every field into their owner's hand. If an opponent doens't have minions, they must shuffle a card from their hand into their deck.
+- 1x Lore Bard: Pick an opponent, choose to either have them trade one of their cards in their hand or on their field with one randomly in your hand.
+- 2x Magical Secrets: Pick an opponent, look through their discard pile and play a non-minion card.
+- 1x A Wishful Restoration: Take 2 cards from your discard pile and put them in you hand, then heal 5 HP.
+- 3x Fabricate: Add 1 card from your deck to your hand, then shuffle your deck. If it wasn't a minion or spell, you gain 2 attack and AC until the start of your next turn.
+- 1x Im the Cook Now: Choose an opponent, draw three cards from the top of their deck. Then that opponent chooses one to give you, discarding the rest.
+- 2x 31 Passive: (Reaction) When your hero is attacked, stop the opponent's and make an attack against their hero with your own.
+- 1x Inventor's Insight: Disable either a Weapon or Equipment of an opponent of your choice has equipped and gain its effects until the end of your next turn.
+- 1x Chain Breaker: Everyone discards a card of their choice, this then becomes a minion with attack and AC equal to the total amount of cards that were discarded this turn.

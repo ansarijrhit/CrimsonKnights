@@ -1,0 +1,28 @@
+Aiged Deck 1.1 (Reworked)
+
+Aiged: 40 HP, At the start of the game, shuffle 5 "Tax Gold" cards around into opponents decks at your own descretion. Once you have collected 5 Tax Gold you can 
+              destroy an opponent of your choice, then reshuffle all the taxes and gold tax again.
+
+Attunement: When you have obtained 2 tax gold for the first time, equip either your Claw or Sea Weave Boat. Once you have obtained 4 gold for the first time, equip the other item
+
+Weapons:
+- Claw: +3 attack, When you attack an opponent's hero, you can add a card from your discard pile to your hand except "Taxes" and it cannot be played that turn.
+
+Equipment:
+- Sea Weave Boat: +2 AC, As an action you can select an opponent, then you both randomly choose a card in each others hand to discard.
+
+Other Cards:
+- 1x Willhelm: has +2 attack and +2 AC. When this card is played, equip a tax gold from a players deck to this card. When this dies, attach the tax gold to Aiged.
+- 3x Taxes: Choose an opponent and search their deck, if you find a "Tax Gold" card, attach it to Aiged.
+- 5x Tax Gold: Draw 2 cards. When played or discarded, attach it to Aiged.
+- 3x Battle Minitures: has +0 attack and +1 AC. Opponents cannot target you with cards and attacks while you have this minion on your field.
+- 1x Fire Breath: Choose up to 5 minions or opponents of your choice and deal 2 damage to each of them, ignoring AC. (Reworked Buff) 
+- 1x Planetar Form: Equip this to your hero until the end of your second turn. While equipped, you hero doesn't take damage when attacking and can use an action to heal 1d8.
+- 2x This is a public Spa!: All minions on the field are returned to their owner's hands. If there are none draw, 2 cards instead.
+- 1x Radiant Breath: Select an opponent, that opponent and their minions take 2 damage and cannot attack until the end of your next turn
+- 1x Gold Eater: Select two cards in an opponents hand of your choice and discard them, any "Tax Gold" cards are attached to Aiged. *(bug fix)
+- 1x Human Form: Heal 1d4 and equip this to your hero until the end of your second turn. While equipped, when you draw a card during your draw phase you may place it at the bottom of your deck and draw another, once.
+- 2x Divine Awareness: Select an opponent and look at their hand. If they are holding a "Tax Gold" card, they must discard one card of their choice.
+- 1x Come Pick us up: Select an opponent then you and that opponent shuffle your hands into your decks, then draw cards equal to the amount shuffled + 1. 
+- 2x Tactical Minitures: has +1 attack and +2 AC. If this minion is alive during your next beginning phase, destroy it and draw a card.
+- 1x Heretical Divide: Until the end of your next turn, any time an opponent would either use an action or attack with a minion or hero, they must send the top card of their deck to the discard pile. Any "Tax Gold" sent it attached to Aiged instead.

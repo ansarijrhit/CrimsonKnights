@@ -1,0 +1,41 @@
+Aleyna Deck
+
+Aleyna: 40 health, Each time you take damage on your own turn, you gain +3 attack until you end your turn *(Buffed)
+
+Attunement:
+- Lifestealing Sword: When you reach 20 health, equip this Weapon
+- Ring of Protection: You can discard 3 cards during your turn as an action to equip this.
+- Periapt of Wound Closure: When you take 6 or more damage on your turn, equip this.
+
+Weapons:
+- Lifestealing Sword: +2 Attack, Whenever you attack with this weapon roll a d20, on a 20 you gain +5 attack and heal 5 HP
+
+Equipment:
+- Ring of Protection: +3 AC
+- Peraipt of Wound Closure: Heal 1 HP during your beginning phase and heal 1 HP during your end phase. *(Bug Fix)
+
+Other Cards:
+- 1x Irlen: +4 attack and +5 AC, When you hero is attacked, you can choose Irlen to be the target instead.
+- 2x Hunter's Bane: Look at the top 3 cards of your deck, place one in your hand and then place the rest in any order back on top of the deck.
+- 3x Crimson Rite: Lose 5 HP, gain +1 attack permentally.
+- 1x Mutual Suffering: Any damage you take until the end of your next turn, also effects an opponent of your choice as well.
+- 1x Reconstruction: Heal 5 HP, and skip your next draw phase
+- 1x Rapidity: Draw a card, and you can play another card this turn.
+- 1x lucky: Choose a card randomly in an opponents hand of your choice and discard it. Then discard the top card of that opponents deck.
+- 2x Extra Attack: Your hero can make two attacks instead of one during this combat phase.
+- 1x Second Wind: Heal 1d10 HP
+- 1x Action Surge: You can play two additional cards during this action phase, draw a card.
+- 1x Improved Critical: The next attack your hero does, does double damage.
+- 2x Cold Rite: roll 1d4, lose that much health and send the top card of your opponents deck to the discard pile.
+- 2x Lightning Rite: roll 1d4, lose that much health and you can play an extra card on your next turn.
+- 2x Rite Preparation: roll 1d4, lose that much health and search your deck for a card with "Rite" in the name, add it to your hand. Then shuffle your deck.
+
+- 1x Binding: An opponent of your choice cannot draw any cards during their next turn.
+- 1x Sweat and Blood: Lose 5 HP, Shuffle an opponent of your choice's hand back into their deck and have them draw 4 cards.
+- 1x Show Up the Divine: Discard the top 3 cards of your deck and take 3 damage for each one discarded, this can't bring you below 1 health.
+- 1x Remarkable Warrior: Choose up to 2 cards from both your hand and discard pile, shuffle them back into your deck and redraw. Take 2 damage for each card drawn.
+
+
+
+
+
