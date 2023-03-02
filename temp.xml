@@ -1,0 +1,19 @@
+<card>
+  <name>Card name</name>
+  <text>Card description and oracle text, including actions, effects, etc..</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Instant</type>
+    <maintype>Instant</maintype>
+    <manacost>0</manacost>
+    <cmc>0</cmc>
+    <pt>0/2</pt>
+    <format-standard>legal</format-standard>
+    <format-commander>legal</format-commander>
+    <format-modern>legal</format-modern>
+    <format-pauper>legal</format-pauper>
+  </prop>
+  <set rarity="common">XXX</set>
+  <tablerow>3</tablerow>
+</card>
