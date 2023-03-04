@@ -1,6 +1,17 @@
 a program to create a set of cards for the Cockatrice app of the Crimson Knights Card Game.
 
-TODO: write instructions for running
-TODO: write instructions for installing Cockatrice
-TODO: write instructions for getting the card sets and images into Cockatrice
-TODO: create hero character cards with hp, abilities, ATK/AC, Character art 
+# Cockatrice Installation:
+install Cockatrice at https://cockatrice.github.io/
+select the version you need on the left sidebar and follow installation instructions.
+When Cockatrice opens, downloading the MTG card database is optional. You may skip installing the card database by selecting 'Cancel' when oracle explorer opens and the select 'No' when it asks if you would like to update the database again.
+
+# Loading custom cards into Cockatrice
+To load the Crimson Knight cards into Cockatrice, you will need to download the file [CrimsonKnights.xml](https://github.com/ansarijrhit/CrimsonKnights/blob/main/CrimsonKnights.xml), and the [images folder](https://github.com/ansarijrhit/CrimsonKnights/tree/main/images).
+
+Open Cockatrice and in the top bar open the **Card Database** dropdown menu and select **Add custom sets/cards**. This will open a file selector where you need to navigate to where you saved **CrimsonKnights.xml** and select it.
+
+To load the images for each card, open the **Card Database** dropdown again and select **Open custom images folder**. This will open a folder where you will need to save all of the images from the **images folder**. Do not place the images in a subfolder in the **Custom Images Folder**.
+
+If the sets were not automatically enabled, open the **Card Database** dropdown and select **Manage Sets**. If you downloaded the MTG card database, search for CKCG to filter only the crimson knights cards and manually select them to enable. Otherwise, you can just hit "enable all"
+ 
+TODO: get character art for hero cards
