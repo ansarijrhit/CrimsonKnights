@@ -28,5 +28,8 @@ To create a room, first connect to a server. You will see several tabs open up b
 ## Notes for being in a game
 Once you start a game, remove the hero character card and all equipemnt from the deck (for Draveik, also remove either Sealed Dielong or Unsealed Dielong, since it has two forms) and place them on the side. to search the Deck, right click on it and select "View Library". Drag and drop the cards where you want to place them, and then right click the Deck and select "Shuffle Library". A good place to out your hero card is in the Red Zone, and a good place for your unequipped items is in the Exile spot (the bottom section on the left, below the graveyard and deck)
 
+## Game Development Notes:
+please put any notes on the card game here: https://docs.google.com/document/d/1l4TKbEut8xXDwZ8sjCCWDvgnJblLpDBng-qCAuh5Ls4/edit?usp=sharing
+
  
 TODO: get character art for hero cards
