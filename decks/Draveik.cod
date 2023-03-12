@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Draveik</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Draveik"/>
+        <card number="1" name="Deusiderre"/>
+        <card number="1" name="Roaring Deliverance"/>
+        <card number="1" name="Retribution Spine"/>
+        <card number="1" name="Second Wind (Draveik)"/>
+        <card number="1" name="Action Surge (Draveik)"/>
+        <card number="1" name="Indomitable (Draveik)"/>
+        <card number="3" name="Extra Attack (Draveik)"/>
+        <card number="1" name="Fire Breath (Draveik)"/>
+        <card number="1" name="Land Strider Deft Explorer"/>
+        <card number="1" name="Absorb Elements"/>
+        <card number="1" name="Zephyr Strike"/>
+        <card number="1" name="Last Ditch Effort"/>
+        <card number="1" name="Quality Build"/>
+        <card number="1" name="Sealed Dielong"/>
+        <card number="1" name="Winter"/>
+        <card number="1" name="Daennis"/>
+        <card number="1" name="Blind Vengeance Pure Intent"/>
+        <card number="2" name="Goading Grappling Strike"/>
+        <card number="1" name="Slayers Prey"/>
+        <card number="1" name="Know Your Enemy Favored Foe"/>
+        <card number="1" name="Strong Will Conflicting Ideals"/>
+        <card number="2" name="Feinting Precision Attack"/>
+        <card number="2" name="Pushing Attack Sweeping Strike"/>
+    </zone>
+</cockatrice_deck>

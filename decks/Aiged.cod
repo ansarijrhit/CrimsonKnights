@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Aiged</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Aiged"/>
+        <card number="1" name="Claw"/>
+        <card number="1" name="Seaweave Boat"/>
+        <card number="1" name="Wilhelm"/>
+        <card number="3" name="Taxes"/>
+        <card number="5" name="Tax Gold"/>
+        <card number="1" name="Fire Breath (Aiged)"/>
+        <card number="1" name="Planetar Form"/>
+        <card number="2" name="This is a Public Spa!"/>
+        <card number="1" name="Radiant Breath"/>
+        <card number="1" name="Gold Eater"/>
+        <card number="1" name="Human Form"/>
+        <card number="2" name="Divine Awareness"/>
+        <card number="1" name="Come Pick Us Up"/>
+        <card number="2" name="Tactical Miniatures"/>
+        <card number="3" name="Battle Miniatures"/>
+        <card number="1" name="Heretical Divide"/>
+    </zone>
+</cockatrice_deck>

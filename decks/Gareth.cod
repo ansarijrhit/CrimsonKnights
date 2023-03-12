@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Gareth</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Gareth"/>
+        <card number="1" name="Arena Ward"/>
+        <card number="1" name="Diadem"/>
+        <card number="3" name="Summoned Spiders"/>
+        <card number="1" name="Palppy"/>
+        <card number="1" name="Nadia"/>
+        <card number="1" name="Jeremiah"/>
+        <card number="1" name="Hesli Arachnea"/>
+        <card number="1" name="To the Promised Land"/>
+        <card number="1" name="Reliable Talent"/>
+        <card number="2" name="Uncanny Dodge"/>
+        <card number="1" name="Evasion"/>
+        <card number="3" name="Sneak Attack"/>
+        <card number="1" name="Elven Accuracy"/>
+        <card number="1" name="Magically Non-magical"/>
+        <card number="1" name="Lolth's Champion"/>
+        <card number="1" name="Thief's Reflexes"/>
+        <card number="1" name="Lucky (Gareth)"/>
+        <card number="2" name="Fast Hands Potion"/>
+        <card number="1" name="30 to Stealth"/>
+        <card number="1" name="Sabotage"/>
+        <card number="1" name="Reaction Sneak Attack"/>
+    </zone>
+</cockatrice_deck>

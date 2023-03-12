@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Praedyth</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Cloud Splitter"/>
+        <card number="1" name="Alexia"/>
+        <card number="1" name="Opulent Cindus"/>
+        <card number="1" name="Praedyth"/>
+        <card number="1" name="Rovin"/>
+        <card number="1" name="Laurent Thibolt"/>
+        <card number="1" name="Lewis the Dog"/>
+        <card number="1" name="Vonett the Chair"/>
+        <card number="2" name="Sorcery Points (Praedyth)"/>
+        <card number="1" name="Bardic Inspiration"/>
+        <card number="2" name="Tempestuous Magic"/>
+        <card number="1" name="Storm's Fury"/>
+        <card number="2" name="Vampiric Bite"/>
+        <card number="1" name="Mobile Flourish"/>
+        <card number="1" name="Defensive Flourish"/>
+        <card number="1" name="Slashing Flourish"/>
+        <card number="1" name="Gate"/>
+        <card number="2" name="Raise Dead"/>
+        <card number="1" name="Mental Prison"/>
+        <card number="1" name="Synaptic Static"/>
+        <card number="2" name="Taking the Spotlight"/>
+        <card number="1" name="Theater Postings"/>
+        <card number="1" name="Gathering Crowd"/>
+    </zone>
+</cockatrice_deck>
