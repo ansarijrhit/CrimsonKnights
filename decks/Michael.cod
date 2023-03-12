@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Michael"/>
+        <card number="1" name="Bol Wyrtson"/>
+        <card number="1" name="Harry Oakhardt"/>
+        <card number="1" name="Vela Venta"/>
+        <card number="1" name="Banner of Safe Haven"/>
+        <card number="1" name="Oakhardt's Vestment"/>
+        <card number="1" name="Antithesis"/>
+        <card number="2" name="Aura of Protection"/>
+        <card number="1" name="Aura of Vitality"/>
+        <card number="2" name="Crusader's Mantel"/>
+        <card number="1" name="Blinding Smite"/>
+        <card number="1" name="Revivify"/>
+        <card number="2" name="Summon Steed"/>
+        <card number="1" name="Wrathful Smite"/>
+        <card number="1" name="Build Your House"/>
+        <card number="2" name="Divine Smite"/>
+        <card number="1" name="Familiar Face Gung-Ho"/>
+        <card number="1" name="I Go Low, You Go High"/>
+        <card number="2" name="Lay On Hands"/>
+        <card number="1" name="Like Father Like Sons"/>
+        <card number="1" name="Prodigal Son Poem for Your Thoughts"/>
+        <card number="2" name="Relentless Avenger"/>
+        <card number="1" name="Shield Master"/>
+    </zone>
+</cockatrice_deck>
