@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Wand of the War Mage"/>
+        <card number="1" name="Pearl of Power"/>
+        <card number="1" name="Irradianus Mundi"/>
+        <card number="1" name="Canicus"/>
+        <card number="1" name="Bend Luck"/>
+        <card number="1" name="Corrosive Cage"/>
+        <card number="2" name="Crafting Component"/>
+        <card number="1" name="Finding Evidence"/>
+        <card number="1" name="Hexblade's Curse"/>
+        <card number="1" name="Preparing Ingredients"/>
+        <card number="1" name="Presenting a Case"/>
+        <card number="1" name="Raven Queen's Fate"/>
+        <card number="2" name="Sorcery Points (Canton)"/>
+        <card number="1" name="Tides of Chaos"/>
+        <card number="1" name="Wild Magic Surge"/>
+        <card number="2" name="Agonizing Blast"/>
+        <card number="2" name="Counterspell"/>
+        <card number="2" name="Dimension Door"/>
+        <card number="2" name="Repelling Blast"/>
+        <card number="1" name="Telekinesis"/>
+        <card number="2" name="Vortex Warp"/>
+        <card number="1" name="Canton"/>
+    </zone>
+</cockatrice_deck>
