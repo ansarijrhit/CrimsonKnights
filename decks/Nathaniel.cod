@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Zeitherz"/>
+        <card number="1" name="Staff of Power"/>
+        <card number="1" name="Cloak of invisibility"/>
+        <card number="1" name="Familiar"/>
+        <card number="1" name="Flying Carpet"/>
+        <card number="1" name="Flying Broom"/>
+        <card number="3" name="Shield"/>
+        <card number="1" name="Cone of Cold"/>
+        <card number="1" name="Crown of Stars"/>
+        <card number="1" name="Meteor Swarm"/>
+        <card number="2" name="Counter Spell"/>
+        <card number="1" name="Mage Armor"/>
+        <card number="2" name="Tidal Wave"/>
+        <card number="1" name="Flash of Genius"/>
+        <card number="2" name="Empowered Evocation"/>
+        <card number="1" name="Overchannel"/>
+        <card number="2" name="Keen Mind"/>
+        <card number="2" name="Alexander William James Arroyo the 6th"/>
+        <card number="1" name="Touched by Time"/>
+        <card number="1" name="Dad's Bank Account"/>
+        <card number="1" name="Correlon's Blessing"/>
+        <card number="1" name="Nathaniel"/>
+    </zone>
+</cockatrice_deck>
