@@ -1,6 +1,6 @@
 Aiged Deck 1.1 (Reworked)
 
-Aiged: 40 HP, At the start of the game, shuffle 5 "Tax Gold" cards around into opponents decks at your own descretion. Once you have collected 5 Tax Gold you can 
+Aig ed: 40 HP, At the start of the game, shuffle 5 "Tax Gold" cards around into opponents decks at your own descretion. Once you have collected 5 Tax Gold you can 
               destroy an opponent of your choice, then reshuffle all the taxes and gold tax again.
 
 Attunement: When you have obtained 2 tax gold for the first time, equip either your Claw or Sea Weave Boat. Once you have obtained 4 gold for the first time, equip the other item
