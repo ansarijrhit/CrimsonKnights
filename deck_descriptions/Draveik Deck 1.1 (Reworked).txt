@@ -1,53 +1,46 @@
-Draveik Deck 1.1
+Draveik Deck 2.0
 
 Draveik: 35 HP, You always have +1 attack and AC
 
 Attunement:
 - Roaring Deliverance: After Draveik has taken 3 attacks, equip this.
-- Duesiderre: If you spend 3 turns in a row taking no action, equip this weapon.
-- Retribution Spine: After receiving a total of 4 damage while attacking, equip this.
+- Duesiderre: Spend an action to discard a card and lose 3 HP, add 1 counter to this weapon. Once you have reached 4 counters, equip this weapon.
+- Retribution Spine: After Draveik has received a total of 12 damage on your turns, equip this.
 
 Weapons:
-- Roaring Deliverance: +2 attack and when you hit but don't kill a minion, send it back to the top of the opponent's deck.
-- Duesiderre: +4 attack, you can use an action to sacrifice 10 HP to increase to +7 attack until the end of the turn.
+- Roaring Deliverance: +1 attack and when you hit but don't destroy a companion, send it back to that opponent's hand.
+- Duesiderre: +4 attack
 
 Equipment:
-- Retribution Spine: +1 AC, Any enemy that attacks your hero takes 1d4 damage
+- Retribution Spine: +1 AC, Any enemy that attacks your hero directly takes 1d4 damage.
 
 
-Reworked Deck:
-- 1x Second Wind: Heal 1d10 HP
-- 1x Action Surge: You get two additional actions during this action phase, draw a card.
+Other Cards:
+(Companions)
+- 1x Daennis:(Companion) has +2 attack and +5 HP. Whenever your hero attacks, draw a card, then you can discard one.
+- 1x Sealed Dielong/ Unsealed Dielong:(Companion)(Duo-Discard) has +1 attack and +8 HP/ has +6 attack and +2 HP, you can take 5 damage to summon this when discarded.
+- 1x Winter:(Companion) has +2 attack and +3 HP. After you end your turn, draw a card.
+(Spells)
+- 1x Absorb Elements:(Spell)(Reaction) When your hero is dealt damage, roll 1d6 and subtract from that instance of damage. On your hero's next attack, add 1d6 damage to it.
+- 1x Zephyr Strike:(Spell) Draw a card, your hero's next attack this turn deals an extra 1d4 damage.
+(Abilities)
+- 1x Action Surge:(Ability) You get two additional actions during this action phase, draw a card.
+- 1x Draveik's Fire Breath:(Ability) Roll 1d6, deal that much damage to all enemies.
+- 3x Extra Attack:(Ability) Your hero can make two attacks instead of one during this combat phase.
+- 1x Last Ditch Effort:(Ability) Deal 10 to your hero and then if you are alive, deal 10 to 1 other hero and that opponent's companions.
+- 1x Quality Build:(Ability) Until the start of your next turn, your hero's attack and AC is equal to their highest of the two.
+- 1x Second Wind:(Ability) Heal 1d10 HP to your hero.
+- 1x Slayers Prey:(Ability) Choose an enemy, your next attacks against them in a turn deals an extra 1d6 of damage.
+(Reactions)
 - 1x Indomitable: (Reaction) When a player targets you with a card, put it back in there hand and make them play another card in their hand if able.
-- 3x Extra Attack: Your hero can make two attacks instead of one during this combat phase.
-- 1x Fire Breath: Roll 1d6, deal that much damage to all enemies
-- 1x Land Strider/Deft Explorer: Take two cards from your discard pile and shuffle them into your deck, then draw one./ Draw 2 cards, then shuffle one card from your discard pile into your deck.
-- 1x Absorb Elements: (Reaction) When you are dealt damage, roll 1d6 and subtract from that instance of damage. On your next attack, add 1d6 damage to the attack.
-- 1x Zephyr Strike: Draw a card, your next attack this turn deals an extra 1d4 damage.
-- 1x Last Ditch Effort: Deal 10 to yourself and then if you are alive, deal 10 to your opponent.
-- 1x Quality Build: Until the start of your next turn, your attack or AC is equal to your highest other stat of attack or AC.
-- 1x Sealed Dielong/ Unsealed Dielong: has +1 attack and +8 AC/ has +6 attack and +2 AC, you can take 5 damage to summon this when discarded.
-- 1x Winter: has +2 attack and +3 AC. At the end of your turn, draw a card
-- 1x Daennis: has +2 attack and +5 AC. Whenever your hero attacks, draw a card, then you can discard one.
-
-- 1x Blind Vengeance/ Pure Intent: Discard 1 card and draw 2./ Draw 1 card.
-- 2x Goading/ Grappling Strike: Until the start of your next turn, gain +2 attack and everytime you are damaged, discard a card and gains another 2 attack./ Each opponent you attack next skips their draw phase.
-- 1x Slayers Prey: Choose an enemy, your next attack(s) against them in a turn deals an extra 1d6 of damage.
-- 1x Know Your Enemy/ Favored Foe: Choose an opponent and look into their hand, then discard one of your own cards. Your opponent must discard a card of the same type if possible./ Choose an opponent, until the start of your next turn whenever they play a card, draw a card, then you may discard one.
-- 1x Strong Will/ Conflicting Ideals: Discard any amount of cards from your hand, your hero gains 2 attack + 2 more for each card discared this turn./ The next time you are attacked, deal 3 additional retaliation damage
-- 2x Feinting/ Precision Attack: Discard another card, your hero's next attack deals 1d6 more damage and can reroll any rolled damage by your hero once this turn only./ Your next attack ignores AC.
-- 2x Pushing Attack/ Sweeping Strike: Discard a card, your opponent must put one card in their hand on top of their deck and one of their cards on the field into their hand if possible. / When you attack with your hero, deal that damage to an additionaly opponent or enemy minion of your choice.
-
-
-
-All Discard Cards:
-- 1x Blind Vengeance/ Pure Intent: Discard 1 card and draw 2./ Draw 1 card.
-- 2x Goading/ Grappling Strike: Until the start of your next turn, gain +2 attack and everytime you are damaged, discard a card and gains another 2 attack./ Each opponent you attack next skips their draw phase.
-- 1x Know Your Enemy/ Favored Foe: Choose an opponent and look into their hand, then discard one of your own cards. Your opponent must discard a card of the same type if possible./ Choose an opponent, until the start of your next turn whenever they play a card, draw a card, then you may discard one.
-- 1x Daennis: has +2 attack and +5 AC. Whenever your hero attacks, draw a card, then you can discard one.
-- 1x Strong Will/ Conflicting Ideals: Discard any amount of cards from your hand, your hero gains 2 attack + 2 more for each card discared this turn./ The next time you are attacked, deal 3 additional retaliation damage
-- 2x Feinting/ Precision Attack: Discard another card, your hero's next attack deals 1d6 more damage and can reroll any rolled damage by your hero once this turn only./ Your next attack ignores AC.
-- 2x Pushing Attack/ Sweeping Strike: Discard a card, your opponent must put one card in their hand on top of their deck and one of their cards on the field into their hand if possible. / When you attack with your hero, deal that damage to an additionaly opponent or enemy minion of your choice.
+(Duo-Discards)
+- 1x Blind Vengeance/ Pure Intent:(Ability) Discard 1 card and draw 2./ (Discarded) Draw 1 card.
+- 2x Feinting/ Precision Attack:(Ability) Discard another card, your hero's next attack deals 1d6 more damage and can reroll any rolled damage by your hero once this turn only./ (Discarded) Your next attack ignores AC.
+- 2x Goading/ Grappling Strike:(Ability) Until the start of your next turn, gain +2 attack and every time you are damaged, discard a card and gains another 2 attack./ (Discarded) Each opponent you attack next skips their draw phase.
+- 1x Know Your Enemy/ Favored Foe:(Ability) Choose an opponent and look into their hand, then discard one of your own cards. Your opponent must discard a card of the same type if possible./ (Discarded) Choose an opponent, until the start of your next turn whenever they play a card, draw a card, then you may discard one.
+- 1x Land Strider/Deft Explorer:(Ability) Take two cards from your discard pile and shuffle them into your deck, then draw one./ (Discarded) Draw 2 cards, then shuffle one card from your discard pile into your deck.
+- 2x Pushing Attack/ Sweeping Strike:(Ability) Discard a card, your opponent must put one card in their hand on top of their deck and one of their cards on the field into their hand if possible./ (Discarded) When you attack with your hero, deal that damage to an additionally opponent or enemy minion of your choice.
+- 1x Strong Will/ Conflicting Ideals:(Ability) Discard any amount of cards from your hand, your hero gains 2 attack + 1 more for each card discarded this turn./ (Discarded) The next time you are attacked, deal 3 additional retaliation damage.
 
 
 
